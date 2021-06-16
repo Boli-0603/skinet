@@ -29,6 +29,7 @@
     "strictDomEventTypes": false,
     "strictPropertyInitialization": false,
     "strictNullChecks": false,
+    "noImplicitReturns": false,
     "fullTemplateTypeCheck": true,
     
   }
